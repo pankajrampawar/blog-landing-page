@@ -234,7 +234,7 @@ const handleClick = ()=>{
         
         <div className='iii-c sm:hidden bg-gradient-to-b from-top1 to-bottom1 relative mt-64 rounded-bl-ic rounded-tr-ic'>
           <img src={mobileImage} className='absolute -top-44 '/>
-          <p className="text-center text-5xl px-10 font-bold text-white relative top-64">State of Art Infrastructure</p>
+          <p className="text-center sm:text-5xl px-10 font-bold text-white relative top-64">State of Art Infrastructure</p>
           <p className='text-center mt-72 pb-28 text-white text-xl px-10'>With reliability and speed in mind. Worldwide data centers provide the backbone for ultra-fast connectivity.
             This ensures your site will load instantly, no matter where your readers are, keeping your site competitive.
           </p>
@@ -243,7 +243,7 @@ const handleClick = ()=>{
         <div className='hidden sm:flex items-center mt-64 py-24 xl:px-24 relative bg-gradient-to-b from-top1 to-bottom1 '>
           <img src={mobileImage} className='absolute' alt='mobileImage' />
           <div className='ml-auto xl:w-1/2 md:w-1/3 pr-10'>
-          <p className='text-white text-3xl'>State of Art Infrastructure</p>
+          <p className='text-white text-2xl sm:text-3xl'>State of Art Infrastructure</p>
           <p className='text-gray-300 '>With reliability and speed in mind. Worldwide data centers provide the backbone for ultra-fast connectivity. This ensures your site will load instantly, no matter where your readers are, keeping your site competitive.</p>
           </div>
         </div>
